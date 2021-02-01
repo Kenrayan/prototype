@@ -3,3 +3,4 @@ Welcome to Menu options
 Add Employee
 Edit Employee
 Delete Employee
+Exit
