@@ -1,6 +1,7 @@
 Welcome to Menu options
 
 Add Employee
+View Employee
 Edit Employee
 Delete Employee
 Exit
